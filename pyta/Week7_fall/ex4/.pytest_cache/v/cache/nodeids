@@ -1,0 +1,11 @@
+[
+  "ex4_test.py::test_handles_integers",
+  "ex4_test.py::test_twice_as_many_ints",
+  "ex4_test.py::test_duplicate_doctest",
+  "ex4_test.py::test_list_of_ints",
+  "ex4_test.py::test_add_one_doctest",
+  "ex4_test.py::test_same_number_of_lists_and_ints",
+  "ex4_test.py::test_person_with_no_children",
+  "ex4_test.py::test_person_with_some_children",
+  "ex4_test.py::test_small_family"
+]

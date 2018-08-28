@@ -1,0 +1,8 @@
+[
+  "ex3_test.py::test_reverse_many",
+  "ex3_test.py::test_reverse_empty",
+  "ex3_test.py::test_get_leader_simple",
+  "ex3_test.py::test_get_second_simple",
+  "ex3_test.py::test_get_third_simple",
+  "ex3_test.py::test_get_nth_on_out_of_bounds_index"
+]

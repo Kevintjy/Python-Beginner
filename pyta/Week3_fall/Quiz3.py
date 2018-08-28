@@ -17,6 +17,7 @@ class Student :
     name : str
     courses : dict
     credits : int
+
     def __init__ ( self , st_num : int , name : str ) -> None :
         """ Initialize this student .
         """
@@ -24,12 +25,14 @@ class Student :
         self . name = name
         self . courses = {}
         self . credits = 0
+
     def complete_course ( self , course : str , grade : int ) -> None :
         """ Record the fact that this student has completed a course .
         """
         self . courses [ course ] = grade
         if grade >= 50:
             self. credits += 1
+
 
 class GraduateStudent ( Student ) :
     """ A graduate student .
@@ -42,6 +45,7 @@ class GraduateStudent ( Student ) :
     """
     supervisor : str
     meetings :[ str ]
+
     def __init__( self , st_num : int , name : str , supervisor : str ) -> None :
         """ Initialize this graduate student .
         """
@@ -51,8 +55,7 @@ class GraduateStudent ( Student ) :
 
 
 
-
-
-g = GraduateStudent (1234567 , ' Ursula ' , ' Professor Fleet ')
-g . complete_course ( ' csc148 ' , 92)
-g . supervisor = ' Professor McIlraith '
+if __name__ == '__main__':
+    g = GraduateStudent (1234567 , ' Ursula ' , ' Professor Fleet ')
+    g . complete_course ( ' csc148 ' , 92)
+    g . supervisor = ' Professor McIlraith '
