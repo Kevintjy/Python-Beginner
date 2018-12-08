@@ -177,9 +177,6 @@ class Helicopter(Vehicle):
         y = abs(new_y - self.position[1])
         return (x**2 + y**2) ** 0.5
 
-
-
-# TODO: Implement this class. Note: We've imported the random module for you.
 class UnreliableMagicCarpet(Vehicle):
     """An unreliable magic carpet.
 
