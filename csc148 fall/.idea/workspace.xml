@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="749951f0-cf83-490c-93ab-44f565cd01be" name="Default" comment="" />
+    <ignored path="csc148.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/csc148$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1534875830794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1877087678">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="96" />
+          <entry key="txt" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Python" value="96" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1293142309">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="308" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="308" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="csc148" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/preps/prep9/prep9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="655">
+              <caret line="245" column="20" lean-forward="true" selection-start-line="245" selection-start-column="20" selection-end-line="245" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/welcome.py" />
+        <option value="$PROJECT_DIR$/Requirements.txt" />
+        <option value="$PROJECT_DIR$/preps/prep9/prep9.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="csc148" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc148" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="options.lastSelected" value="configurable.group.tools" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.32666665" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.splitter.proportion" value="0.46858832" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from importlib import reload&#10;try:&#10;    import python_ta&#10;    print('python_ta imported successfully!')&#10;except ImportError:&#10;    pass" module-name="csc148" is-module-sdk="true">
+        <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from importlib import reload&#10;try:&#10;    import python_ta&#10;    print('python_ta imported successfully!')&#10;except ImportError:&#10;    pass" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="csc148" />
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
+    <option name="myShowVariablesByDefault" value="false" />
+    <option name="myIpythonEnabled" value="false" />
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\david\Desktop\csc148\preps" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.prep9">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="csc148" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="prep9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="csc148" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preps/prep9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preps/prep9/prep9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="csc148" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../GitHub/Python-developer/Grade Record" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../GitHub/Python-developer/Grade Record/window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest BinarySearchTree.count" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="csc148" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preps/prep9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preps/prep9/prep9.py" />
+      <option name="CLASS_NAME" value="BinarySearchTree" />
+      <option name="METHOD_NAME" value="count" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest BinarySearchTree.items" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="csc148" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preps/prep9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preps/prep9/prep9.py" />
+      <option name="CLASS_NAME" value="BinarySearchTree" />
+      <option name="METHOD_NAME" value="items" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest BinarySearchTree.smaller" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="csc148" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preps/prep9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preps/prep9/prep9.py" />
+      <option name="CLASS_NAME" value="BinarySearchTree" />
+      <option name="METHOD_NAME" value="smaller" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Doctest BinarySearchTree.count" />
+      <item itemvalue="Python tests.Doctest BinarySearchTree.items" />
+      <item itemvalue="Python tests.Doctest BinarySearchTree.smaller" />
+      <item itemvalue="Python.prep9" />
+      <item itemvalue="Python.window" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.prep9" />
+        <item itemvalue="Python.window" />
+        <item itemvalue="Python tests.Doctest BinarySearchTree.smaller" />
+        <item itemvalue="Python tests.Doctest BinarySearchTree.items" />
+        <item itemvalue="Python tests.Doctest BinarySearchTree.count" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="749951f0-cf83-490c-93ab-44f565cd01be" name="Default" comment="" />
+      <created>1436825143214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1436825143214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctest_BinarySearchTree_maximum - 2018.11.07 at 15h 53m 11s.xml">
+      <configuration name="Doctest BinarySearchTree.maximum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_BinarySearchTree_maximum - 2018.11.07 at 15h 54m 26s.xml">
+      <configuration name="Doctest BinarySearchTree.maximum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_BinarySearchTree_maximum - 2018.11.07 at 15h 55m 47s.xml">
+      <configuration name="Doctest BinarySearchTree.maximum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_BinarySearchTree_maximum - 2018.11.07 at 15h 55m 59s.xml">
+      <configuration name="Doctest BinarySearchTree.maximum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_BinarySearchTree_maximum - 2018.11.07 at 15h 56m 17s.xml">
+      <configuration name="Doctest BinarySearchTree.maximum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_BinarySearchTree_maximum - 2018.11.07 at 15h 57m 20s.xml">
+      <configuration name="Doctest BinarySearchTree.maximum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_BinarySearchTree_maximum - 2018.11.07 at 15h 57m 32s.xml">
+      <configuration name="Doctest BinarySearchTree.maximum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_BinarySearchTree_count - 2018.11.07 at 16h 00m 50s.xml">
+      <configuration name="Doctest BinarySearchTree.count" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_BinarySearchTree_items - 2018.11.07 at 16h 07m 04s.xml">
+      <configuration name="Doctest BinarySearchTree.items" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_BinarySearchTree_smaller - 2018.11.07 at 16h 11m 31s.xml">
+      <configuration name="Doctest BinarySearchTree.smaller" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.21888413" />
+      <window_info id="Structure" order="1" weight="0.2494331" />
+      <window_info id="Course Description" order="2" sideWeight="0.50079745" side_tool="true" weight="0.24919094" />
+      <window_info x="-96" y="763" width="3100" height="478" id="Favorites" order="3" show_stripe_button="false" side_tool="true" weight="0.3301105" />
+      <window_info id="TODO" order="4" weight="0.32879817" />
+      <window_info anchor="bottom" id="Changes" order="0" />
+      <window_info anchor="bottom" id="Application Servers" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32977304" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="Python Console" order="4" sideWeight="0.5014675" weight="0.55857897" />
+      <window_info anchor="right" id="Find" order="5" weight="0.32977304" />
+      <window_info anchor="right" id="Run" order="6" sideWeight="0.4985325" weight="0.509299" />
+      <window_info anchor="right" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="right" id="Terminal" order="8" show_stripe_button="false" side_tool="true" weight="0.32977304" />
+      <window_info anchor="right" id="Inspection" order="9" weight="0.4946695" />
+      <window_info anchor="right" id="Event Log" order="10" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Data View" order="11" />
+      <window_info anchor="right" id="SciView" order="12" show_stripe_button="false" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.2101285" />
+      <window_info id="Structure" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info id="Course Description" order="2" sideWeight="0.50079745" side_tool="true" weight="0.24919094" />
+      <window_info x="-96" y="763" width="3100" height="478" id="Favorites" order="3" show_stripe_button="false" side_tool="true" weight="0.3301105" />
+      <window_info anchor="bottom" id="Changes" order="0" />
+      <window_info anchor="bottom" id="Application Servers" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32977304" />
+      <window_info anchor="bottom" id="TODO" order="6" side_tool="true" weight="0.32930514" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="Python Console" order="4" sideWeight="0.5014675" weight="0.55929005" />
+      <window_info anchor="right" id="Find" order="5" weight="0.32977304" />
+      <window_info anchor="right" id="Run" order="6" sideWeight="0.4985325" weight="0.50944823" />
+      <window_info anchor="right" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="right" id="Terminal" order="8" show_stripe_button="false" side_tool="true" weight="0.32977304" />
+      <window_info anchor="right" id="Inspection" order="9" weight="0.4946695" />
+      <window_info anchor="right" id="Event Log" order="10" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Data View" order="11" />
+      <window_info anchor="right" id="SciView" order="12" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GitHub/Python-developer/Grade Record/window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GitHub/比鸡最优化/card_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4749">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preps/prep9/prep9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="245" column="20" lean-forward="true" selection-start-line="245" selection-start-column="20" selection-end-line="245" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+[
+  "prep4_sample_test.py::test_peek_doctest",
+  "prep4_sample_test.py::test_peek_general",
+  "prep4_sample_test.py::test_reverse_top_two_doctest",
+  "prep4_sample_test.py::test_remove_all_doctest",
+  "prep4_sample_test.py::test_remove_all_but_one_doctest"
+]

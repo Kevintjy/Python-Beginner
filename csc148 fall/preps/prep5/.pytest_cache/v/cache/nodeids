@@ -1,0 +1,7 @@
+[
+  "prep5_sample_test.py::test_len_empty",
+  "prep5_sample_test.py::test_len_three",
+  "prep5_sample_test.py::test_contains_doctest",
+  "prep5_sample_test.py::test_append_empty",
+  "prep5_sample_test.py::test_append_one"
+]

@@ -1,0 +1,11 @@
+[
+  "tests.py::test_empty_simple_prefix_tree",
+  "tests.py::test_insert_to_empty_prefix_tree",
+  "tests.py::test_insert_in_non_empty",
+  "tests.py::test_remove_",
+  "tests.py::test_autocomplete",
+  "tests.py::test_autocomplete_letter_autocompleter",
+  "tests.py::test_remove_letter_autocompleter",
+  "tests.py::test_autocomplete_sen_autocompleter",
+  "tests.py::test_remove_autocomplete_sentence"
+]
